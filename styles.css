@@ -168,3 +168,36 @@ p{
   font: 'Ubuntu', sans-serif;
   font-size: 15px;
 }
+
+.button {
+    background-color: #04AA6D;
+   border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+   font-size: 16px;
+    margin: 4px 2px;
+  }
+  
+  .button4 {border-radius: 12px;}
+
+.products p {
+    color: white;
+    text-align: left;
+    font-size: 100px;
+}
+
+.products p1 {
+    color: red;
+    text-align: left;
+    font-size: 20px;
+}
+
+.products img {
+    display: block;
+    margin-left: left;
+    margin-right: left;
+    width: 45%;
+}
